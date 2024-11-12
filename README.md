@@ -1,6 +1,29 @@
 # Members only!
 
-## TOP instructions
+## Screenshots
+The index page (not logged in, the author remains unknown)
+![Screenshot from 2024-11-11 18-50-25](https://github.com/user-attachments/assets/00d232b3-5b31-476c-914b-187e920aaec6)
+
+The index page (logged in, the author is displayed and user has the option to create a post)
+![Screenshot from 2024-11-11 18-51-02](https://github.com/user-attachments/assets/10bbe7ac-f0d8-4e59-a42c-080ebdbbf13f)
+
+The new page to create a new post
+![image](https://github.com/user-attachments/assets/d11c400c-1758-4aaf-acda-107b42ed096e)
+
+
+The devise sign-up page
+![Screenshot from 2024-11-11 18-50-33](https://github.com/user-attachments/assets/80729eac-ebda-4ca4-ac41-55f94b089f13)
+
+The devise log in page
+![Screenshot from 2024-11-11 18-50-40](https://github.com/user-attachments/assets/34222e24-ebfb-4641-ab93-07257e502c2b)
+
+To open this project locally on your computer, after cloning the project from git and entering the repository folder the following commands need to be run:
+
+    rails db:migrate
+    
+    rails db:seed
+
+## TOP assignment instructions
 
 In this project, you’ll be building an exclusive clubhouse where your members can write anonymous posts. Inside the clubhouse, members can see who the author of a post is but, outside, they can only see the story and wonder who wrote it.
 
